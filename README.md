@@ -1,2 +1,2 @@
 # linklaser
-Hospedagem do site da Linklaser
+💡Hospedagem do site da Linklaser
